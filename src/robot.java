@@ -28,19 +28,19 @@ public class robot {
 
 
                 //condition required to increment counterUp
-                if (eachLetterinArray[j] == 'F') {
+                if (eachLetterinArray[j] == 'F'|| eachLetterinArray[j] == 'f') {
                     countUp++; }
 
                 //condition required to increment counterDown
-               else if (eachLetterinArray[j] == 'B') {
+               else if (eachLetterinArray[j] == 'B'|| eachLetterinArray[j] == 'b') {
                     countDown++; }
 
                 //condition required to increment counterLeft
-                else if (eachLetterinArray[j] == 'L') {
+                else if (eachLetterinArray[j] == 'L'|| eachLetterinArray[j] == 'l') {
                     countLeft++; }
 
                 //condition required to increment counterRight
-                else if (eachLetterinArray[j] == 'R') {
+                else if (eachLetterinArray[j] == 'R'|| eachLetterinArray[j] == 'r') {
                     countRight++; }
 
                 //prints out prompt to user due to invalid input
