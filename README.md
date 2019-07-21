@@ -2,7 +2,9 @@
 interview task
 
 step 1: Input your commands in this sequence
+
       e.g  F,B,L,R
+      
       e.g  B,B,B,R,F,L
 
 step 2: robot moves in the specified direction
