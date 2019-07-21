@@ -1,5 +1,5 @@
 # robotJava
-interview task
+# User manual
 
 step 1: Input your commands in this sequence
 
@@ -12,3 +12,7 @@ step 2: robot moves in the specified direction
 step 3: final position of robot is displayed
 
 step 4: The minimum amount of distance to get back to the starting point is displayed
+
+# Testing
+Test done with testNG
+By using assert method to check if the distance value is positive
